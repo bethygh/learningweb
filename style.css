@@ -1,0 +1,45 @@
+body,
+html {
+/*  width: 100%;
+  height: 100%;*/
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.div_out {
+	position: relative;
+	height: 100%;
+}
+
+img {
+	width: 100%;
+	height: 100vh;
+}
+
+
+.div_head {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 400%;
+	color: #669999;
+}
+
+.div_button {
+	position: absolute;
+	top: 85%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+
